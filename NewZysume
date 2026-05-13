@@ -9,5 +9,5 @@ elseif game.GameId == 8316902627 then
 elseif game.GameId == 6701277882 then
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fcff28afc07cfd1e5eaa2eb03e4fe0ea.lua"))()
 elseif game.GameId == 10004244222 then -- kick a lucky block
-    loadstring(game:HttpGet("https://zaroguard.com/fh0bQ9IgbtdiPC9/filev1?loader=b9409de30c05"))()
+    loadstring(game:HttpGet("https://pastefy.app/v1uklFDX/raw"))()
 end
